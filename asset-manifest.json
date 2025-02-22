@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KM-exam/static/css/main.e6c13ad2.css",
+    "main.js": "/KM-exam/static/js/main.4350fc88.js",
+    "static/js/453.e2da21cb.chunk.js": "/KM-exam/static/js/453.e2da21cb.chunk.js",
+    "index.html": "/KM-exam/index.html",
+    "main.e6c13ad2.css.map": "/KM-exam/static/css/main.e6c13ad2.css.map",
+    "main.4350fc88.js.map": "/KM-exam/static/js/main.4350fc88.js.map",
+    "453.e2da21cb.chunk.js.map": "/KM-exam/static/js/453.e2da21cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4350fc88.js"
+  ]
+}
